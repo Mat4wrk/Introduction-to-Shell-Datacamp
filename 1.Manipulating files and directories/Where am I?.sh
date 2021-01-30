@@ -1,1 +1,2 @@
-pwd
+$ pwd
+/home/repl
