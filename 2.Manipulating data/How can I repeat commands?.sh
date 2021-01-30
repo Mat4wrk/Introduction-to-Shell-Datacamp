@@ -1,4 +1,4 @@
-$ head summer
-$ !head.csv
+$ head summer.csv
+$ !head
 $ history
 $ !head
